@@ -1,0 +1,20 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "A blog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blog-api"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {}
+}
